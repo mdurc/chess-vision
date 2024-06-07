@@ -1,4 +1,5 @@
 
+- fun project while practicing with ncurses library
 
 #### For Improving Chess Vision (practicing coordinates)
 **Includes 2 game modes:**
